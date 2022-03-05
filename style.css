@@ -1,0 +1,240 @@
+body{
+    font-family: 'Kufam', sans-serif;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.menubar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+    margin: 15px;
+}
+.menu a:hover{
+    color: orangered;
+}
+.button-style{
+    padding: 10px 15px;
+    color: black;
+    font-size: medium;
+   font-weight: bold;
+}
+.button-style:hover{
+    background-color: orangered;
+     color: white;
+}
+.Title{
+    font-size: 25px;
+    padding-top: 50px;
+    margin-top: 20px;
+  
+}
+.bg-topbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.btn-home{
+    padding: 15px 30px;
+    color: black;
+    font-size: medium;
+   font-weight: bold;
+}
+.inpot-fild{
+position: relative;
+}
+.input-box{
+    padding: 20px 90px;
+    position: absolute;
+}
+.btn-home{
+    padding: 10px 15px;
+    color: black;
+    font-size: medium;
+   font-weight: bold;
+   position: relative;
+   cursor: pointer;
+   left: 220px;
+   margin-top: 8px;
+}
+.btn-home:hover{
+    background-color: orangered;
+    color: white;
+}
+.app-title{
+    text-align: center;
+    margin-top: 100px;
+}
+.app-titleline{
+    font-size: 40px;
+}
+.Committed-icon{
+  text-align: center;
+  margin: 20px;
+}
+.Committed-aline{
+    display: flex;
+    margin-top: 100px;
+}
+.font-color:hover{
+color: orange;
+}
+.Social-Toolaline{
+    display: flex;
+    margin-top: 100px;
+}
+.title-aline{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.bg-down{
+    padding: 10px 15px;
+    color: black;
+    font-size: medium;
+   font-weight: bold;
+   position: relative;
+   cursor: pointer;
+   
+   
+}
+.bg-down:hover{
+    background-color: orangered;
+    color: white;
+}
+.social-hover{
+    color: orangered;
+    font-size: 20px;
+}
+.Digital-aline{
+    display: flex;
+}
+.solutions-line{
+    margin-top: 100px;
+}
+.Pricing-Plan{
+    text-align: center;
+    margin-top: 50px;
+}
+.packeg-title{
+    text-align: center;
+    
+}
+.title-font{
+    
+    display: flex;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.btn-home{
+    padding: 10px 15px;
+    color: black;
+    font-size: medium;
+   font-weight: bold;
+   position: relative;
+   cursor: pointer;
+   left: 220px;
+   margin-top: 8px;
+}
+.btn-home:hover{
+    background-color: orangered;
+    color: white;
+}
+.icon-title{
+    display: flex;
+    margin-left: 100px;
+    text-align: center;
+}
+.Screenshot-title{
+    text-align: center;
+    margin-top: 200px;
+    
+    
+}
+.ssc-photo{
+  
+   margin-right: 30px;
+}
+.container-full{
+    width: 1200px;
+    
+}
+.screenshot-title{
+    margin: 150px;
+    display: flex;
+    margin-left: -150px;
+    
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.Installation-title{
+    display: flex;
+}
+.Installation-titleline{
+    margin-left: 50px;
+}
+.Testimonials-title{
+    text-align: center;
+    margin-top: 120px;
+}
+.box{
+    background-color: orangered;
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 30px;
+    
+}
+.box-item{
+    display: flex;
+    margin-top: 10px;
+    
+    
+}
+.box-itemtwo{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.last-line{
+    background-color: rgb(252, 248, 248);
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+   
+   
+}
+.foth-aline{
+    
+    text-align: center;
+    margin: 10px;
+    margin-left: 10px;
+    margin-top: 100px;
+}
+.button-spes{
+    padding: 10px 15px;
+    color: black;
+    font-size: medium;
+   font-weight: bold;
+   border-radius: 20px;
+}
+
+
+.flax{
+    display: flex;
+    margin-top: 100px;
+}
